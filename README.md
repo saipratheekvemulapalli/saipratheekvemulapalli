@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sai Pratheek</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
-<img align="right" alt="image" width="400" [[src="https://..."](https://www.google.com/url?sa=i&url=...)]]
+<img align="right" alt="Coding" width="400" src="https://www.chawtechsolutions.com/wp-content/uploads/2019/03/developer.gif">
 
 
 - 🔭 I’m currently working on **SpringBoot, RESTful API's, AWS, React**
