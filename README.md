@@ -8,7 +8,9 @@
 - 💬 Ask me about **Java, SpringBoot**
 
 - 📫Let's Connect!
-Feel free to reach out to me if you'd like to collaborate on exciting projects 📧 Email: **saipratheekvemulapalli@gmail.com**
+Feel free to reach out to me if you'd like to collaborate on exciting projects
+<br/>
+ 📧 Email: **saipratheekvemulapalli@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
