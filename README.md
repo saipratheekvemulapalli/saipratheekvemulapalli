@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sai Pratheek</h1>
-<h3 align="center">a passionate and dedicated Full Stack Developer with a keen interest in building scalable and efficient web applications. I enjoy learning new technologies and implementing them to solve real-world problems.
-
-🚀 I specialize in Spring Boot and I love working with both front-end and back-end technologies to create seamless user experiences.</h3>
+<h3 align="center">A passionate and dedicated Full Stack Developer with a keen interest in building scalable and efficient web applications. I enjoy learning new technologies and implementing them to solve real-world problems.</h3>
 <img align="right" alt="Coding" width="400" src="https://www.chawtechsolutions.com/wp-content/uploads/2019/03/developer.gif">
 
 
